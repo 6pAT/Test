@@ -1,0 +1,7 @@
+git config user.name
+git config user.email
+
+git config --unset-all
+
+git remote add origin https://github.com/6pAT/Test.git
+git remote -v         посмотреть 
