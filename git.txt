@@ -5,3 +5,9 @@ git config --unset-all
 
 git remote add origin https://github.com/6pAT/Test.git
 git remote -v         посмотреть 
+
+git add .
+git commit -m "First commit"   - это все на локальном, а что бы синхронизировать с сайтом
+вводим
+
+git push origin 
